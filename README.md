@@ -4,13 +4,13 @@
 <ul>
     <li>🪪 I’m 3rd Leader on <a href="https://scaict.org/">SCAICT</a></li>
     <li>🖥️ I’m 2nd Information Team on <a href="https://scaict.org/">SCAICT</a></li>
-    <li>🌱 I’m Currently Learning **Computer Science, Reverse**</li>
+    <li>🌱 I’m Currently Learning <strong>Computer Science, Reverse</strong></li>
     <li>📝 I Regularly Erite Articles on <a href="https://blog.chaontc.tw/">blog.chaontc.tw</a></li>
     <ul>
         <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
     </ul>
     <li>📄 Know About My Experiences <a href="https://chaontc.tw/">chaontc.tw</a></li>
-    <li>📫 Contact Me With <a href="mailto:me@chaontc.tw">me@chaontc.tw</a></li>
+    <li>📫 Contact Me With <a href="mailto:me@chaontc.tw"><strong>me@chaontc.tw</strong></a></li>
 </ul>
 
 <p align="left"> 
