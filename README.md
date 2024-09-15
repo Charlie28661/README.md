@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chao28661</h1>
 <h3 align="center">A Student from Taiwan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlie28661&label=Profile%20views&color=0e75b6&style=flat" alt="charlie28661" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie28661" alt="charlie28661" /></a> </p>
-
 - 🪪 I’m 3rd Leader on [SCAICT](scaict.org)
-
-- 🌱 I’m Currently Learning **Computer Science, Reverse**
 
 - 🖥️ I’m 2nd Information Team on [SCAICT](scaict.org)
 
+- 🌱 I’m Currently Learning **Computer Science, Reverse**
+
 - 📝 I regularly write articles on [blog.chaontc.tw](blog.chaontc.tw)
 
-- 📫 Contact me **me@chaontc.tw**
-
 - 📄 Know about my experiences [chaontc.tw](chaontc.tw)
+
+- 📫 Contact me **me@chaontc.tw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlie28661&" alt="charlie28661" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie28661" alt="charlie28661" /></a> </p>
 ###
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
