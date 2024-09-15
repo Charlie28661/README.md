@@ -1,8 +1,10 @@
 name: Latest blog post workflow
+
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
 permissions:
   contents: write # To write the generated contents to the readme
 
@@ -10,13 +12,17 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.chaontc.tw/atom.xml"
-      - name: Format RSS feed with indentation
+
+      - name: Add indentation to blog post list in README
         run: |
-          sed -i 's/^/        /' public/atom.xml
+          # 在生成的部落格列表中添加縮排
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/s/^/    /' README.md
