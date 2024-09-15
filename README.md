@@ -2,15 +2,15 @@
 <h3 align="center">A Student from Taiwan.</h3>
 
 <ul>
-    <li>🪪 I’m 3rd Leader on [SCAICT](scaict.org)</li>
-    <li>🖥️ I’m 2nd Information Team on [SCAICT](scaict.org)</li>
+    <li>🪪 I’m 3rd Leader on <a href="https://scaict.org/">SCAICT</a></li>
+    <li>🖥️ I’m 2nd Information Team on <a href="https://scaict.org/">SCAICT</a></li>
     <li>🌱 I’m Currently Learning **Computer Science, Reverse**</li>
-    <li>📝 I Regularly Erite Articles on [blog.chaontc.tw](blog.chaontc.tw)</li>
+    <li>📝 I Regularly Erite Articles on <a href="https://blog.chaontc.tw/">blog.chaontc.tw</a></li>
     <ul>
         <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
     </ul>
-    <li>📄 Know About My Experiences [chaontc.tw](chaontc.tw)</li>
-    <li>📫 Contact Me With **me@chaontc.tw**</li>
+    <li>📄 Know About My Experiences <a href="https://chaontc.tw/">chaontc.tw</a></li>
+    <li>📫 Contact Me With <a href="mailto:me@chaontc.tw">**me@chaontc.tw**</a></li>
 </ul>
 
 <p align="left"> 
