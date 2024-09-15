@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chao28661</h1>
 <h3 align="center">A Student from Taiwan.</h3>
 
-- 🪪 I’m 3rd Leader on [SCAICT](scaict.org)
-
-- 🖥️ I’m 2nd Information Team on [SCAICT](scaict.org)
-
-- 🌱 I’m Currently Learning **Computer Science, Reverse**
-
-- 📝 I regularly write articles on [blog.chaontc.tw](blog.chaontc.tw)
-
-- 📄 Know about my experiences [chaontc.tw](chaontc.tw)
-
-- 📫 Contact me **me@chaontc.tw**
+<ul>
+    <li>🪪 I’m 3rd Leader on [SCAICT](scaict.org)</li>
+    <li>🖥️ I’m 2nd Information Team on [SCAICT](scaict.org)</li>
+    <li>🌱 I’m Currently Learning **Computer Science, Reverse**</li>
+    <li>📝 I Regularly Erite Articles on [blog.chaontc.tw](blog.chaontc.tw)</li>
+    <ul>
+        <li><!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END --></li>
+    </ul>
+    <li📄 Know About My Experiences [chaontc.tw](chaontc.tw)></li>
+    <li>📫 Contact Me With **me@chaontc.tw**</li>
+</ul>
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -39,9 +39,3 @@
 <hr>
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
-
-<!-- BLOG-POST-LIST:START -->
-- [THJCC CTF WriteUps](https://blog.chaontc.tw/tw/THJCC%20CTF%20WriteUps/)
-- [Cloudflare WAF套用在Vultr VPS](https://blog.chaontc.tw/tw/Cloudflare%20WAF%E5%A5%97%E7%94%A8%E5%9C%A8Vultr%20VPS/)
-- [2022 AIS3 Junior 心得分享](https://blog.chaontc.tw/tw/2022%20AIS3%20Junior%20%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/)
-<!-- BLOG-POST-LIST:END -->
