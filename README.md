@@ -93,9 +93,3 @@ If things goes well, this section should automatically be replaced by a list of 
 </a>
   <img src="https://profile-counter.glitch.me/Charlie28661/count.svg?"  />
 </div>  
-
-###
-
-<div align="center">
-  
-</div>
