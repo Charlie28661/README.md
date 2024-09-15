@@ -21,4 +21,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.chaontc.tw/atom.xml"
-          template: '<a href="$url">$title</a><br>'
+          template: '<li><a href="$url">$title</a></li>'
