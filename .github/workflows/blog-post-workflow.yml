@@ -17,3 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.chaontc.tw/atom.xml"
+      - name: Add indentation to blog post list
+        run: |
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/s/^/    /' README.md
