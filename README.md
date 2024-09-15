@@ -10,7 +10,7 @@
         <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
     </ul>
     <li>📄 Know About My Experiences <a href="https://chaontc.tw/">chaontc.tw</a></li>
-    <li>📫 Contact Me With <a href="mailto:me@chaontc.tw">**me@chaontc.tw**</a></li>
+    <li>📫 Contact Me With <a href="mailto:me@chaontc.tw">me@chaontc.tw</a></li>
 </ul>
 
 <p align="left"> 
