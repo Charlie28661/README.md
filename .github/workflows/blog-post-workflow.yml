@@ -21,11 +21,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.chaontc.tw/atom.xml"
-        template: |
-            <!-- BLOG-POST-LIST:START -->
-            
-            {{#posts}}
-                <li>{{title}}</li>
-            {{/posts}}
-            
-            <!-- BLOG-POST-LIST:END -->
