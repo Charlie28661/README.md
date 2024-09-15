@@ -59,21 +59,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/chao28661" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Charlie28661" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats
 
 <div align="center">
@@ -101,10 +86,19 @@ If things goes well, this section should automatically be replaced by a list of 
 ###
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/chao28661" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Charlie28661" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Charlie28661/count.svg?"  />
 </div>
-
-###
