@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://blog.chaontc.tw/atom.xml"
       - name: Format RSS feed with indentation
         run: |
-          sed -i 's/^/    /' public/atom.xml
+          sed -i 's/^/        /' public/atom.xml
