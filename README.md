@@ -74,9 +74,12 @@
 <br/>  
 
 
-## Github Stats  
-  
+## Github Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charlie28661&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charlie28661&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <br/>  
 
 
@@ -94,13 +97,8 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charlie28661&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Charlie28661&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
-<hr>
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
 ###
