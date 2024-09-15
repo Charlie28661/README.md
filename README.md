@@ -7,7 +7,7 @@
 - 💻 Student Club's Association of Information in Central Taiwan - 2nd Information Team  
   
 
-- ⭐ Web Security / Internet / Develop  
+- ⭐ Web Security / Network / Develop  
   
 
 <br/>  
