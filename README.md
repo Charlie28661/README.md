@@ -44,7 +44,7 @@
 </div>
 
 ###
-
+<hr>
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
 ###
