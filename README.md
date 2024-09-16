@@ -5,7 +5,7 @@
     <li>🪪 I’m 3rd Leader on <a href="https://scaict.org/">SCAICT</a></li>
     <li>🖥️ I’m 2nd Information Team on <a href="https://scaict.org/">SCAICT</a></li>
     <li>🌱 I’m Currently Learning <strong>Computer Science, Reverse</strong></li>
-    <li>📝 I Write Articles on <a href="https://blog.chaontc.tw/">blog.chaontc.tw</a></li>
+    <li>📝 I Writing Articles on <a href="https://blog.chaontc.tw/">blog.chaontc.tw</a></li>
     <ul>
 <!-- BLOG-POST-LIST:START --><li><a href="https://blog.chaontc.tw/tw/THJCC%20CTF%20WriteUps/">THJCC CTF WriteUps</a></li>
 <li><a href="https://blog.chaontc.tw/tw/Cloudflare%20WAF%E5%A5%97%E7%94%A8%E5%9C%A8Vultr%20VPS/">Cloudflare WAF套用在Vultr VPS</a></li>
