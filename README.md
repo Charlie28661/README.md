@@ -44,9 +44,4 @@
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Charlie28661/count.svg" alt="" /></td>
-  </tr>
-</table>
+<img src="https://profile-counter.glitch.me/Charlie28661/count.svg" alt="" />
