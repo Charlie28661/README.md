@@ -44,4 +44,11 @@
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
-<img src="https://profile-counter.glitch.me/Charlie28661/count.svg" alt="" />
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+<img src="https://profile-counter.glitch.me/Charlie28661/count.svg" alt="" class="center" />
