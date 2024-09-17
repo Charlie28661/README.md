@@ -43,7 +43,3 @@
 <hr>
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
-
-<div style="text-align: center;">
-    ![Visitor Count](https://profile-counter.glitch.me/Charlie28661/count.svg)
-</div>
