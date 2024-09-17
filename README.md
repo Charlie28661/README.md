@@ -35,6 +35,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlie28661&show_icons=true&locale=en&layout=compact" alt="charlie28661" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie28661&show_icons=true&locale=en" alt="charlie28661" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlie28661" alt="charlie28661" /></a> </p>
@@ -42,3 +43,5 @@
 <hr>
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
+
+![Visitor Count](https://profile-counter.glitch.me/Charlie28661/count.svg)
