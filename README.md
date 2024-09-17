@@ -44,4 +44,4 @@
 
 <img src="https://raw.githubusercontent.com/Charlie28661/Charlie28661/output/snake.svg" alt="Snake animation" />
 
-![Visitor Count](https://profile-counter.glitch.me/Charlie28661/count.svg)
+<img scr="https://profile-counter.glitch.me/Charlie28661/count.svg" alt="counter">
