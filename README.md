@@ -7,7 +7,7 @@
     <li>🌱 I’m Currently Learning <strong>Computer Science, Reverse</strong></li>
     <li>📝 I Writing Articles on <a href="https://blog.chaontc.tw/">blog.chaontc.tw</a></li>
     <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.chaontc.tw/2024/09/18/[hexo%2002]%20%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%B6%E4%BD%A0%E5%9C%A8%20hexo%20%E4%B8%8A%E6%9B%B4%E6%8F%9B%E8%87%AA%E5%B7%B1%E5%96%9C%E6%AD%A1%E7%9A%84%E4%B8%BB%E9%A1%8C%E9%82%84%E6%9C%89%E6%96%B0%E5%A2%9E%20RSS/">[hexo 02] 手把手帶你在 hexo 上更換自己喜歡的主題還有新增 RSS</a></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.chaontc.tw/2024/09/18/hexo%2002%20%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%B6%E4%BD%A0%E5%9C%A8%20hexo%20%E4%B8%8A%E6%9B%B4%E6%8F%9B%E8%87%AA%E5%B7%B1%E5%96%9C%E6%AD%A1%E7%9A%84%E4%B8%BB%E9%A1%8C%E9%82%84%E6%9C%89%E6%96%B0%E5%A2%9E%20RSS/">[hexo 02] 手把手帶你在 hexo 上更換自己喜歡的主題還有新增 RSS</a></li>
 <li><a href="https://blog.chaontc.tw/2024/09/17/hexo-01-%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%B6%E4%BD%A0%E5%9C%A8-Github-Pages-%E4%B8%8A%E4%BD%BF%E7%94%A8-hexo-io-%E5%BB%BA%E7%AB%8B%E7%B6%B2%E7%AB%99-%E9%83%A8%E8%90%BD%E6%A0%BC/">[hexo 01] 手把手帶你在 Github Pages 上使用 hexo.io 建立網站/部落格</a></li>
 <li><a href="https://blog.chaontc.tw/2024/05/05/THJCC%20CTF%20Write-up/">THJCC CTF Write-up</a></li>
 <li><a href="https://blog.chaontc.tw/2023/11/02/Cloudflare%20WAF%E5%A5%97%E7%94%A8%E5%9C%A8Vultr%20VPS%E4%B8%8A/">Cloudflare WAF套用在Vultr VPS上</a></li>
